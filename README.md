@@ -1,4 +1,4 @@
-![Reverse Engineering Banner](https://raw.githubusercontent.com/Manroop7/Manroop7/main/Banner.png)
+![Reverse Engineering Banner](https://raw.githubusercontent.com/Manroop7/Manroop7/main/banner.png)
 ## Hi there 👋
 
 I'm Manroop, a security researcher and reverse engineer.
