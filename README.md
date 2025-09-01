@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Manroop7/Manroop7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manroop, a security researcher and reverse engineer. I specialize in dissecting binaries, analyzing malware, and developing tools to understand software internals.
 
-Here are some ideas to get you started:
+### Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Reverse Engineering:** IDA Pro, Ghidra, x64dbg
+- **Dynamic Analysis:** Wireshark, Process Monitor
+- **Malware Analysis:** Decrypting payloads, behavioral analysis
+- **Development:** C++, Python, IMGUI, Cheating development
+- **Security:** Vulnerability research, exploit development
+
+---
+
+### Connect with me
+
+- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/manroop7/)
+- 📫 **Email:** manroop0023@gmail.com
