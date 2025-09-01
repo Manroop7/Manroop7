@@ -7,7 +7,7 @@ I'm Manroop, a security researcher and reverse engineer. I specialize in dissect
 - **Reverse Engineering:** IDA Pro, Ghidra, x64dbg
 - **Dynamic Analysis:** Wireshark, Process Monitor
 - **Malware Analysis:** Decrypting payloads, behavioral analysis
-- **Development:** C++, Python, IMGUI, Cheating development
+- **Development:** C++, Python, IMGUI development
 - **Security:** Vulnerability research, exploit development
 
 ---
